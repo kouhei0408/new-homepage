@@ -31,6 +31,9 @@ export default function Page() {
       <footer>
         <div>© {new Date().getFullYear()} toriba14</div>
         <div className="muted small">Built with Next.js (SSG) · Theme toggle</div>
+        <div className="muted small">Icons by <a href="https://react-icons.github.io/react-icons" target="_blank" rel="noopener">React Icons</a></div>
+        <div className="muted small">Powered by <a href="https://nextjs.org" target="_blank" rel="noopener">Next.js</a></div>
+        <div className="muted small">HTMLの練習のためにAI使いながら作りました。</div>
       </footer>
     </>
   );
