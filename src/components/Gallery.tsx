@@ -42,7 +42,9 @@ export default function Gallery({ items = [] }: { items?: Item[] }) {
   return (
     <>
       <h2>Gallery / Works</h2>
-      <p className="muted">最近のスナップや作った画像など（仮）。画像は差し替えてください。</p>
+      <p className="muted">最近のスナップや作った画像など。
+        趣味が多め。
+      </p>
 
       <div className="grid">
         {items.map((it, i) => (

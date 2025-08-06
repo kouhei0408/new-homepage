@@ -1,7 +1,7 @@
 [
     {
         "src": "assets/work-1.jpg",
-        "title": "赤城山ヒルクライムの練習",
+        "title": "愛車で赤城山",
         "span": 6
     },
     {
@@ -22,6 +22,21 @@
     {
         "src": "assets/work-5.jpg",
         "title": "ミツバチ",
+        "span": 4
+    },
+        {
+        "src": "assets/work-6.jpg",
+        "title": "推しチキン",
+        "span": 4
+    },
+        {
+        "src": "assets/work-7.jpg",
+        "title": "桜",
+        "span": 4
+    },
+        {
+        "src": "assets/work-8.jpg",
+        "title": "猫",
         "span": 4
     }
 ]
