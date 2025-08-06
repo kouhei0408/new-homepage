@@ -1,0 +1,32 @@
+[
+    {
+        "src": "assets/work-1.jpg",
+        "title": "赤城山ヒルクライムの練習",
+        "span": 6
+    },
+    {
+        "src": "assets/work-2.jpg",
+        "title": "夜空",
+        "span": 6
+    },
+    {
+        "src": "assets/work-3.jpg",
+        "title": "家に住み着いたシジュウカラ",
+        "span": 4
+    },
+    {
+        "src": "assets/work-4.jpg",
+        "title": "家に住み着いたシジュウカラ2",
+        "span": 4
+    },
+    {
+        "src": "assets/work-5.jpg",
+        "title": "ミツバチ",
+        "span": 4
+    },
+        {
+        "src": "assets/work-5.jpg",
+        "title": "夕焼け",
+        "span": 4
+    }
+]
