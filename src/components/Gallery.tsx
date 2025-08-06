@@ -50,7 +50,7 @@ export default function Gallery({ items = [] }: { items?: Item[] }) {
         {items.map((it, i) => (
           <article
             key={i}
-            className="card hover-zoom"
+            className="card hover-zoom image-card"
             style={{ gridColumn: `span ${it.span ?? 4}` }}
           >
             <button

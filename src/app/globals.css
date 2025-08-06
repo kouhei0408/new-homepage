@@ -532,4 +532,12 @@ html:focus-within {
   height: 80vh;
   margin: 0 auto;
 }
-
+.image-card {
+    position: relative;
+    padding-bottom: 50px;
+    height: auto;
+}
+.image-card .body {
+    position: absolute;
+    bottom: 0px;
+}
