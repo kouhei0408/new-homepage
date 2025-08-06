@@ -1,5 +1,5 @@
 type Profile = {
-    software: any;
+    software: string[];
     intro: string;
     likes: string[];
     doing: string[];
