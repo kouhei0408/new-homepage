@@ -25,7 +25,7 @@ export default function Links() {
             <div className="muted handle">@toriba14</div>
           </div>
         </a>
-        <a className="card link-item hover-lift" style={{ gridColumn: 'span 6', display: 'flex', alignItems: 'center', gap: 14, padding: 14 }} href="https://friend-website.com" target="_blank" rel="noopener">
+        <a className="card link-item hover-lift" style={{ gridColumn: 'span 6', display: 'flex', alignItems: 'center', gap: 14, padding: 14 }} href="https://spacer4719.f5.si/" target="_blank" rel="noopener">
           <div className="logo friend">
             <span role="img" aria-label="friend">🌐</span>
           </div>
