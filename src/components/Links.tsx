@@ -25,6 +25,17 @@ export default function Links() {
             <div className="muted handle">@toriba14</div>
           </div>
         </a>
+      /* ここから */
+        <a className="card link-item hover-lift" style={{ gridColumn: 'span 6', display: 'flex', alignItems: 'center', gap: 14, padding: 14 }} href="https://friend-website.com" target="_blank" rel="noopener">
+          <div className="logo friend">
+            <span role="img" aria-label="friend">🌐</span>
+          </div>
+          <div>
+            <div className="title">友達のWebサイト</div>
+            <div className="muted handle">https://spacer4719.f5.si/</div>
+          </div>
+        </a>
+/*webページひながた*/
       </div>
     </div>
   );
